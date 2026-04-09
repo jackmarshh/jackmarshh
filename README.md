@@ -8,14 +8,6 @@
 - ✨ 比起只追求功能堆疊，我更在意產品是否簡單、穩定，並且真的能解決問題。
 - 🚀 目前持續探索 AI 應用、自動化工作流、客服系統與更多實用型產品的可能性。
 
-### 技術棧
-
-- Backend: PHP, Python, Go, Java
-- Frontend: Vue, React, Next.js
-- Database: MySQL, Redis
-- Tools: Git, REST API, Linux, SaaS Architecture
-- Exploring: AI Applications, Automation, Product Building
-
 ### 近期關注
 
 - AI 驅動的產品開發
