@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm jackmarshh 👋
 
-<!--
-**jackmarshh/jackmarshh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 關於我
 
-Here are some ideas to get you started:
+- 🌱 我是一位獨立開發者，喜歡把想法一步一步做成真正可用的產品。
+- 💻 熟悉多種技術棧，包含 PHP、Python、Go、Java，以及 Vue、Next.js、React 等前後端開發。
+- 🛠 平常關注 Web 應用、後端服務、SaaS 系統、AI 工具與產品落地。
+- ✨ 比起只追求功能堆疊，我更在意產品是否簡單、穩定，並且真的能解決問題。
+- 🚀 目前持續探索 AI 應用、自動化工作流、客服系統與更多實用型產品的可能性。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 技術棧
+
+- Backend: PHP, Python, Go, Java
+- Frontend: Vue, React, Next.js
+- Database: MySQL, Redis
+- Tools: Git, REST API, Linux, SaaS Architecture
+- Exploring: AI Applications, Automation, Product Building
+
+### 近期關注
+
+- AI 驅動的產品開發
+- SaaS 系統與後端架構
+- 自動化工作流與效率工具
+- 從 0 到 1 打造真正能落地的產品
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackmarshh&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmarshh&layout=compact&theme=transparent)
