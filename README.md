@@ -14,9 +14,3 @@
 - SaaS 系統與後端架構
 - 自動化工作流與效率工具
 - 從 0 到 1 打造真正能落地的產品
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jackmarshh&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackmarshh&layout=compact&theme=transparent)
